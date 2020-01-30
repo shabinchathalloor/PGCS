@@ -6,19 +6,19 @@ The Project “Public Grievance Clearing System” is a web based application to
 
 
 ## Existing System
-	 Departments deals with different day-to-day activities that take place generally in any system. In the existing manual system huge expenditure and a lot of time is spent in communicating the information across different branches.  So, there is a need for an integrated automated system, which has some centralized control over the entire process.
+   Departments deals with different day-to-day activities that take place generally in any system. In the existing manual system huge expenditure and a lot of time is spent in communicating the information across different branches.  So, there is a need for an integrated automated system, which has some centralized control over the entire process.
    
 ## Proposed System
 >>  Full on-line data entry with online validations on field and referential checking, the goal of the system is to bring down the workload with the increased efficiency and to speed up the activities.
 
 >>  The major activities of Grievance Handling Module are to receive various types of grievances from citizens, facilitate for speedy processing of Grievances received, Updating the status of Grievances as and when required, informing the citizen about the action taken by the respected department and Generation of Departments. 
 
-The Advantages of the proposed system are:
+#### The Advantages of the proposed system are:
 
-> The proposed system is completely automated system
-> The consumers can easily access their database
-> The email facility provides the customer interaction
-> This also provides security for the customer information
+1. The proposed system is completely automated system
+2. The consumers can easily access their database
+3. The email facility provides the customer interaction
+4. This also provides security for the customer information
 
 
 
